@@ -1,0 +1,107 @@
+.card-spec{
+    background-color: rgb(236, 235, 235);
+    border-radius: 10px;
+    padding:2%;
+}
+.card-spec:hover{ 
+     background-color: white;
+    border-radius: 10px;
+    padding:2%;
+     box-shadow: 0px 0px 30px rgba(0,0,0.265);
+     color: orangered;
+
+}
+.icon-style{
+font-size: 30px;
+border-radius: 100px;
+background-color: white;
+width: 25%;
+height: 35%;
+border: black 3px solid;
+text-align: center;
+padding-top: 10px;
+}
+.hello-pos{
+    padding-top:280px ;
+}
+.font-black{
+border-radius: 10px
+}
+.arrow-pos{
+font-size:x-large;
+padding-inline: 310px;
+padding-top: 30px;
+}
+.arrow-but{
+    font-size:large;
+    padding-inline: 100%;
+    padding-right: 75%;
+}
+.pic-port{
+    border-radius: 20px;
+
+
+}
+.but-dow{
+    background-color:black; 
+    color: white
+}
+.but-dow:hover{
+    background-color:rgb(255, 255, 255); 
+    color: rgb(0, 0, 0);
+    border-color: black;
+}
+.but-abt{
+   background-color: rgb(255, 255, 255);
+   color: rgb(0, 0, 0);
+}
+.but-abt:hover{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+ }
+ .but-port{
+    border-color: black;
+    border-radius: 30px 30px 30px 30px;
+ }
+ .but-port:hover{
+    background-color: black;
+    color: white;
+ }
+.port-col{
+    color: black;
+}
+.port-col:hover{
+    color: orangered;
+}
+.but-view{
+    color: white;
+    background-color: black;
+}
+.but-view:hover{
+    color: black;
+    background-color: white;
+    border-color: black;
+}
+.contact-red{
+    color: red;
+    font-size: 70px;
+    margin-bottom: 10%;
+}
+input ,select ,textarea{
+    background-color: rgb(213, 248, 248) !important;
+    border-radius: 10px !important;
+    border: black 2px solid !important;
+}
+#but-sen{
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+#but-sen:hover{
+    background-color: rgb(255, 255, 255);
+    color:black;
+    width: 100%;
+    border: black 2px solid;
+}
+
+
