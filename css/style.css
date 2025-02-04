@@ -37,10 +37,19 @@ padding-top: 30px;
     padding-inline: 100%;
     padding-right: 75%;
 }
+.hell-pic{
+    width: 400px;
+    height: 300px;  
+}
 .pic-port{
     border-radius: 20px;
+    width: 400px;
+    height: 400px;
 
-
+border-image-width: 50px;
+}
+.sec-col{
+    background-color: rgb(238, 210, 229);
 }
 .but-dow{
     background-color:black; 
